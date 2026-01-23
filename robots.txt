@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://darkbeer0.github.io/bill-splitter/sitemap.xml
